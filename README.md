@@ -107,3 +107,4 @@ conf t
 ip route 0.0.0.0 0.0.0.0 172.16.2.1 (Настройте интерфейс, в сторону BR-RTR
 end 
 write memory
+![Uploading image.png…]()
