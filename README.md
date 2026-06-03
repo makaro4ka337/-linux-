@@ -1,4 +1,5 @@
 # -linux sinni home-
+https://github.com/Leayplay/sisadmin/
 Минимальная маска сети 3O 
 32 адреса  – 27 маска сети 
 16 - 28
